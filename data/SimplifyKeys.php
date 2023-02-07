@@ -27,7 +27,7 @@
  */
 
 /* TEST dummy account keys.  REPLACE them with your own Simplify.com API keys.*/
-$simplifyPrivateKey = 'DvO+9QRpinM6iBQI/OFxpbId/kYi9pCQ4petiZHZiCJ5YFFQL0ODSXAOkNtXTToq'; 
-$simplifyPublicKey = 'sbpb_M2M0ZTk2Y2ItNTcxMi00Y2QxLWJmNTctNzg4ZjEzMGMzY2Nj';
+$simplifyPrivateKey = '7WTS7UnE5AqfiMVr07WneqDbNevTdxHV+QHQtVuK4T95YFFQL0ODSXAOkNtXTToq'; 
+$simplifyPublicKey = 'lvpb_ODQzZWFhYjMtYzQxYi00M2M4LWIzYjYtNTk2OTI1NmY1MDQw';
 
 ?>
