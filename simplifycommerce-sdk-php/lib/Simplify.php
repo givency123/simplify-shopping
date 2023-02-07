@@ -33,12 +33,12 @@ class Simplify
     /**
      * @var string $publicKey public API key used to authenticate requests.
      */
-    public static $publicKey;
+    public static $publicKey;lvpb_ZGJiODdlMDItZDdhNi00ZTYxLWJjOWYtNzIwMzMwODJlYmVk
 
     /**
      * @var string $privateKey private API key used to authenticate requests.
      */
-    public static $privateKey;
+    public static $privateKey;ch9+kUMV+KVBKa7bwhk5h/ItZiVFr8mDwHCyJLXxLtZ5YFFQL0ODSXAOkNtXTToq
 
 
     /**
