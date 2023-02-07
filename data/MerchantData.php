@@ -33,10 +33,11 @@ $merchant = new Merchant;
 $merchant->name = 'The Simplify Cake';
 $merchant->header = 'Enjoy our delectable cupcakes.';
 $merchant->description = 'We are a delivery only cupcake business. We specialize in made from scratch gourmet cupcakes. Our goal is to change your cupcake experience forever.';
-$merchant->url = 'index.php'; //'http://www.simplifycake.com';
-$merchant->urlDisplay = 'simplifycake.com';
+$merchant->url = 'index.php'; //'https://www.simplify.com/stores/';
+$merchant->urlDisplay = 'www.simplify.com/stores';
 $merchant->email = 'simplifycake@gmail.com';
 $merchant->mainColor = '#F15E92';
+
 
 $merchant->products[] = new Product('Mixed Box of Cupcakes', 
 	'You will get one box of mixed cupcakes in the mail. They will arrive in a sealed and chilled bag.', 
