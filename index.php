@@ -83,6 +83,16 @@ require_once 'data/MerchantData.php';
 </head>
 
 <body>
+  <script type="text/javascript"
+        src="https://www.simplify.com/commerce/simplify.pay.js"></script>
+<button data-sc-key="lvpb_ODQzZWFhYjMtYzQxYi00M2M4LWIzYjYtNTk2OTI1NmY1MDQw"
+        data-name="Jasmine Green Tea"
+        data-description="Smooth tea with a rich jasmine bouquet"
+        data-reference="99999"
+        data-amount="3000"
+        data-color="#12B830">
+        Buy Now
+</button>
   <div class="bg-img size-header"><!--[if lt IE 9]><img class="bg-img" src="assets/img/bg_banner.jpg" /><![endif]--></div>
 
 <?php if ($merchant->enableHostedPayments) { ?>
